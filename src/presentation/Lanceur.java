@@ -32,25 +32,24 @@ public class Lanceur {
 		System.out.println("Premier nb: " + c1);
 		System.out.println("Second nb: " + c2);
 		System.out.println("");
-		System.out.println("Resutat: " + resultatAddComplexe);
+		System.out.println("Resultat: " + resultatAddComplexe);
 		
 		System.out.println("----------------- SOUSTRACTION ----------------------");
 		System.out.println("Premier nb: " + c1);
 		System.out.println("Second nb: " + c2);
-		System.out.println("Resutat: " + resultatSubComplexe);
+		System.out.println("Resultat: " + resultatSubComplexe);
 		
-		// affichage
 		System.out.println("----------------- NOMBRES REELS ------------------------");
 		System.out.println("----------------- ADDITION ----------------------");
 		System.out.println("Premier nb: " + r1);
 		System.out.println("Second nb: " + r2);
 		System.out.println("");
-		System.out.println("Resutat: " + resultatAddReel);
+		System.out.println("Resultat: " + resultatAddReel);
 		
 		System.out.println("----------------- SOUSTRACTION ----------------------");
 		System.out.println("Premier nb: " + r1);
 		System.out.println("Second nb: " + r2);
-		System.out.println("Resutat: " + resultatSubReel);
+		System.out.println("Resultat: " + resultatSubReel);
 		
 		
 	}
